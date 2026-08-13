@@ -1,6 +1,6 @@
 # ds-algorithms-and-functions
 
-Custom algorithms and reusable functions for data science work, consolidated from three older repos.
+Custom algorithms and reusable functions for data science work.
 
 - [`algorithms/`](./algorithms) — general-purpose algorithms
 - [`useful-functions-visualization/`](./useful-functions-visualization) — plotting and visualization helpers
